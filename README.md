@@ -2,7 +2,7 @@
 ### Student Information
   + Name: Mitch Worsey
   + USC Email: worsey@usc.edu
-  + USC ID: 8370927291
+  + Developed: May 2013
 
 ### Game Information
   + Game Name: Mario Dodger
